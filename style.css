@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+  font-size: 25px;
+}
+.btn{
+  border: dashed 0.5px #800000;
+  width: 50px;
+  height: 40px;
+  display: inline;
+  background-color: #FF7878;
+}
+h1{
+  background-color: #00C2C2;
+}
